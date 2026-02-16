@@ -1,0 +1,139 @@
+{
+  "dictionary": [
+    {
+      "id": 1,
+      "english": "hello",
+      "banjara": "नमस्ते",
+      "pronunciation": "namasthe",
+      "example_en": "Hello, how are you?",
+      "example_bn": "नमस्ते, आप कैसे हैं?",
+      "category": "greeting"
+    },
+    {
+      "id": 2,
+      "english": "thank you",
+      "banjara": "धन्यवाद",
+      "pronunciation": "dhanyavaad",
+      "example_en": "Thank you for your help",
+      "example_bn": "आपकी मदद के लिए धन्यवाद",
+      "category": "politeness"
+    },
+    {
+      "id": 3,
+      "english": "goodbye",
+      "banjara": "अलविदा",
+      "pronunciation": "alvida",
+      "example_en": "Goodbye, see you soon",
+      "example_bn": "अलविदा, जल्द ही मिलेंगे",
+      "category": "greeting"
+    },
+    {
+      "id": 4,
+      "english": "water",
+      "banjara": "पानी",
+      "pronunciation": "paani",
+      "example_en": "I need water",
+      "example_bn": "मुझे पानी चाहिए",
+      "category": "noun"
+    },
+    {
+      "id": 5,
+      "english": "food",
+      "banjara": "खाना",
+      "pronunciation": "khana",
+      "example_en": "The food is delicious",
+      "example_bn": "खाना स्वादिष्ट है",
+      "category": "noun"
+    },
+    {
+      "id": 6,
+      "english": "family",
+      "banjara": "परिवार",
+      "pronunciation": "parivaar",
+      "example_en": "My family is very important to me",
+      "example_bn": "मेरा परिवार मेरे लिए बहुत महत्वपूर्ण है",
+      "category": "noun"
+    },
+    {
+      "id": 7,
+      "english": "love",
+      "banjara": "प्यार",
+      "pronunciation": "pyaar",
+      "example_en": "I love my family",
+      "example_bn": "मुझे अपने परिवार से प्यार है",
+      "category": "verb"
+    },
+    {
+      "id": 8,
+      "english": "home",
+      "banjara": "घर",
+      "pronunciation": "ghar",
+      "example_en": "Welcome to my home",
+      "example_bn": "मेरे घर में आपका स्वागत है",
+      "category": "noun"
+    },
+    {
+      "id": 9,
+      "english": "yes",
+      "banjara": "हां",
+      "pronunciation": "haan",
+      "example_en": "Yes, I agree",
+      "example_bn": "हां, मुझे सहमति है",
+      "category": "response"
+    },
+    {
+      "id": 10,
+      "english": "no",
+      "banjara": "नहीं",
+      "pronunciation": "nahi",
+      "example_en": "No, I don't think so",
+      "example_bn": "नहीं, मुझे नहीं लगता",
+      "category": "response"
+    },
+    {
+      "id": 11,
+      "english": "please",
+      "banjara": "कृपया",
+      "pronunciation": "kripaya",
+      "example_en": "Please help me",
+      "example_bn": "कृपया मुझे मदद करें",
+      "category": "politeness"
+    },
+    {
+      "id": 12,
+      "english": "sorry",
+      "banjara": "माफ करें",
+      "pronunciation": "maaf karen",
+      "example_en": "Sorry for the inconvenience",
+      "example_bn": "असुविधा के लिए माफ करें",
+      "category": "politeness"
+    },
+    {
+      "id": 13,
+      "english": "day",
+      "banjara": "दिन",
+      "pronunciation": "din",
+      "example_en": "Have a good day",
+      "example_bn": "एक अच्छा दिन रहे",
+      "category": "noun"
+    },
+    {
+      "id": 14,
+      "english": "night",
+      "banjara": "रात",
+      "pronunciation": "raat",
+      "example_en": "Good night, sleep well",
+      "example_bn": "शुभ रात्रि, अच्छी नींद लें",
+      "category": "noun"
+    },
+    {
+      "id": 15,
+      "english": "morning",
+      "banjara": "सुबह",
+      "pronunciation": "subah",
+      "example_en": "Good morning, how are you?",
+      "example_bn": "सुप्रभात, आप कैसे हैं?",
+      "category": "noun"
+    }
+  ]
+}
